@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Блогика!</title>
+    <link href="https://blogika.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://blogika.github.io/gh-pages" />
+    <updated>2022-01-08T15:39:34+02:00</updated>
+    <author>
+        <name>blogika</name>
+    </author>
+    <id>https://blogika.github.io/gh-pages</id>
+
+    <entry>
+        <title>Основна идея</title>
+        <author>
+            <name>blogika</name>
+        </author>
+        <link href="https://blogika.github.io/gh-pages/osnovna-ideya/"/>
+        <id>https://blogika.github.io/gh-pages/osnovna-ideya/</id>
+
+        <updated>2022-01-08T15:39:34+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
