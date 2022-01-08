@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Блогика!",
     "description": "",
-    "home_page_url": "https://blogika.github.io/gh-pages",
-    "feed_url": "https://blogika.github.io/gh-pages/feed.json",
+    "home_page_url": "https://blogika.github.io/p",
+    "feed_url": "https://blogika.github.io/p/feed.json",
     "user_comment": "",
-    "icon": "https://blogika.github.io/gh-pages/media/website/blogika.png",
+    "icon": "https://blogika.github.io/p/media/website/blogika.png",
     "author": {
         "name": "blogika"
     },
     "items": [
         {
-            "id": "https://blogika.github.io/gh-pages/osnovna-ideya/",
-            "url": "https://blogika.github.io/gh-pages/osnovna-ideya/",
+            "id": "https://blogika.github.io/p/osnovna-ideya/",
+            "url": "https://blogika.github.io/p/osnovna-ideya/",
             "title": "Основна идея",
-            "image": "https://blogika.github.io/gh-pages/media/posts/2/ideas-children-2.jpg",
+            "image": "https://blogika.github.io/p/media/posts/2/ideas-children-2.jpg",
             "author": {
                 "name": "blogika"
             },
