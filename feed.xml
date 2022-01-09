@@ -3,22 +3,48 @@
     <title>Блогика!</title>
     <link href="https://blogika.github.io/p/feed.xml" rel="self" />
     <link href="https://blogika.github.io/p" />
-    <updated>2022-01-08T15:39:34+02:00</updated>
+    <updated>2022-01-09T15:26:53+02:00</updated>
     <author>
         <name>blogika</name>
     </author>
     <id>https://blogika.github.io/p</id>
 
     <entry>
-        <title>Основна идея</title>
+        <title>Различно значи интересно</title>
         <author>
             <name>blogika</name>
         </author>
-        <link href="https://blogika.github.io/p/osnovna-ideya/"/>
-        <id>https://blogika.github.io/p/osnovna-ideya/</id>
+        <link href="https://blogika.github.io/p/razlichno-znachi-interesno/"/>
+        <id>https://blogika.github.io/p/razlichno-znachi-interesno/</id>
+            <category term="Визуални послания"/>
 
-        <updated>2022-01-08T15:39:34+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-01-09T15:26:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blogika.github.io/p/media/posts/5/Social-Media-Preview.jpg" alt="" />
+                    Да кажем, че това е нещо като мини кампания. Докато експериментирах с малко по-сложни фото манипулации ме осени идеята за&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blogika.github.io/p/media/posts/5/Social-Media-Preview.jpg" alt="" />
+                <p>Да кажем, че това е нещо като мини кампания. Докато експериментирах с малко по-сложни фото манипулации ме осени идеята за посланието, което биха могли да носят тези леко странни същества. Затова прибавих към всяко от тях по някакъв човешки елемент, за да придобият още повече вид на хора. Ето така се родиха петте ми Франкенщайнчета! Да не забравим най-важното обаче - никога не съдете останалите.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
+<figure class="gallery__item"><a href="https://blogika.github.io/p/media/posts/5//gallery/1.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/p/media/posts/5//gallery/1-thumbnail.jpg" alt="Кучок = Куче + Паток" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/p/media/posts/5//gallery/2.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/p/media/posts/5//gallery/2-thumbnail.jpg" alt="Жирафина = Жираф + Балерина" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/p/media/posts/5//gallery/3.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/p/media/posts/5//gallery/3-thumbnail.jpg" alt="Слоня = Слон + Свиня" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/p/media/posts/5//gallery/4.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/p/media/posts/5//gallery/4-thumbnail.jpg" alt="Смоктопод = Смок + Октопод" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/p/media/posts/5//gallery/5.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/p/media/posts/5//gallery/5-thumbnail.jpg" alt="Пепемуха = Пеперуда + Муха" width="720" height="720"></a></figure>
+</div></div>
+<p>Малко кадри от кухнята... Доказателство, че при направата на тези колажи няма пострадали животни. В този ред на мисли да спомена, че всяка прилика с действителни лица е напълно случайна! 😀</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
+<figure class="gallery__item"><a href="https://blogika.github.io/p/media/posts/5/gallery/making1.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/p/media/posts/5/gallery/making1-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/p/media/posts/5/gallery/making2.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/p/media/posts/5/gallery/making2-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/p/media/posts/5/gallery/making3.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/p/media/posts/5/gallery/making3-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/p/media/posts/5/gallery/making4.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/p/media/posts/5/gallery/making4-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/p/media/posts/5/gallery/making5.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/p/media/posts/5/gallery/making5-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+</div></div>
+            ]]>
+        </content>
     </entry>
 </feed>
