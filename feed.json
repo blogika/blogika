@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://blogika.github.io/p/testing-123/",
+            "url": "https://blogika.github.io/p/testing-123/",
+            "title": "Testing 123",
+            "summary": "Is it working? :) We'll see...",
+            "content_html": "<p>Is it working? :) We'll see...</p>",
+            "image": "https://blogika.github.io/p/media/posts/7/grab-the-idea.jpg",
+            "author": {
+                "name": "blogika"
+            },
+            "tags": [
+                   "Кратки хрумки"
+            ],
+            "date_published": "2022-01-13T20:31:41+02:00",
+            "date_modified": "2022-01-13T20:32:15+02:00"
+        },
+        {
             "id": "https://blogika.github.io/p/prikazka-za-pif/",
             "url": "https://blogika.github.io/p/prikazka-za-pif/",
             "title": "Приказка за P.I.F.",

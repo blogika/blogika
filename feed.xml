@@ -3,12 +3,35 @@
     <title>Блогика!</title>
     <link href="https://blogika.github.io/p/feed.xml" rel="self" />
     <link href="https://blogika.github.io/p" />
-    <updated>2022-01-13T19:41:30+02:00</updated>
+    <updated>2022-01-13T20:32:15+02:00</updated>
     <author>
         <name>blogika</name>
     </author>
     <id>https://blogika.github.io/p</id>
 
+    <entry>
+        <title>Testing 123</title>
+        <author>
+            <name>blogika</name>
+        </author>
+        <link href="https://blogika.github.io/p/testing-123/"/>
+        <id>https://blogika.github.io/p/testing-123/</id>
+            <category term="Кратки хрумки"/>
+
+        <updated>2022-01-13T20:32:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blogika.github.io/p/media/posts/7/grab-the-idea.jpg" alt="" />
+                    Is it working? :) We'll see...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blogika.github.io/p/media/posts/7/grab-the-idea.jpg" alt="" />
+                <p>Is it working? :) We'll see...</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Приказка за P.I.F.</title>
         <author>
