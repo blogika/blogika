@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Блогика!</title>
-    <link href="https://blogika/blogika.github.io/feed.xml" rel="self" />
-    <link href="https://blogika/blogika.github.io" />
+    <link href="https://blogika.github.io/blogika/feed.xml" rel="self" />
+    <link href="https://blogika.github.io/blogika" />
     <updated>2022-01-13T21:07:55+02:00</updated>
     <author>
         <name>blogika</name>
     </author>
-    <id>https://blogika/blogika.github.io</id>
+    <id>https://blogika.github.io/blogika</id>
 
     <entry>
         <title>Приказка за PIF</title>
         <author>
             <name>blogika</name>
         </author>
-        <link href="https://blogika/blogika.github.io/prikazka-za-pif/"/>
-        <id>https://blogika/blogika.github.io/prikazka-za-pif/</id>
+        <link href="https://blogika.github.io/blogika/prikazka-za-pif/"/>
+        <id>https://blogika.github.io/blogika/prikazka-za-pif/</id>
             <category term="Видео сюжети"/>
 
         <updated>2022-01-13T21:07:55+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blogika/blogika.github.io/media/posts/6/Social-Media-Preview.jpg" alt="Приказка за P.I.F." />
+                        <img src="https://blogika.github.io/blogika/media/posts/6/Social-Media-Preview.jpg" alt="Приказка за P.I.F." />
                     Лесно е да преразкажеш една приказка, особено когато се забавляваш. Точно така се случи през 2017, когато спретнах това видео&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://blogika/blogika.github.io/media/posts/6/Social-Media-Preview.jpg" alt="Приказка за P.I.F." />
+                    <img src="https://blogika.github.io/blogika/media/posts/6/Social-Media-Preview.jpg" alt="Приказка за P.I.F." />
                 <p>Лесно е да преразкажеш една приказка, особено когато се забавляваш. Точно така се случи през 2017, когато спретнах това видео за няколко часа. Без да влагам голямо старание - просто сглобих най-различни кадри от YouTube, следвайки изцяло интуицията си относно тяхната подредба. Истински кеф! Като чиста детска игра... съчетана с любима песен. Същевременно малко практика за уменията по видео обработка. </p>
 <p>Лесно ли е обаче да го покажеш пред света? Не и след като първоначалната цел не е била такава. Не и след като три години по-късно, Димо напусна нашия свят през 2020 г. Изисква се известна доза смелост, която едва ли притежавам. <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Но реших да публикувам това видео с ясното съзнание, че то не претендира за качество, авторски права или съвършенство. </span></p>
 <p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Просто една визуална приказка, чиято цел е да ви достави удоволствие, пренасяйки ви за момент в друг свят... </span></p>
@@ -41,21 +41,21 @@
         <author>
             <name>blogika</name>
         </author>
-        <link href="https://blogika/blogika.github.io/evolyuciya/"/>
-        <id>https://blogika/blogika.github.io/evolyuciya/</id>
+        <link href="https://blogika.github.io/blogika/evolyuciya/"/>
+        <id>https://blogika.github.io/blogika/evolyuciya/</id>
             <category term="Дълги размисли"/>
             <category term="Видео сюжети"/>
 
         <updated>2022-01-13T14:32:29+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blogika/blogika.github.io/media/posts/4/Evolucia.jpg" alt="" />
+                        <img src="https://blogika.github.io/blogika/media/posts/4/Evolucia.jpg" alt="" />
                     Случайността следва свой предначертан път, непознат за нас. След срещите си с нея често оставаме приятно изненадани, а друг път&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://blogika/blogika.github.io/media/posts/4/Evolucia.jpg" alt="" />
+                    <img src="https://blogika.github.io/blogika/media/posts/4/Evolucia.jpg" alt="" />
                 <p>Случайността следва свой предначертан път, непознат за нас. След срещите си с нея често оставаме приятно изненадани, а друг път - изпълнени с горчиво разочарование. Но едно е сигурно: пътеките ни винаги се пресичат, когато най-малко очакваме.</p>
 <p>Защото ей така случайно, отивайки на работа, се сблъскваш с добър съученик, който от десетилетия живее в чужбина. Също толкова случайно погледът ти спира върху некролог на стълб, от който научаваш, че твой приятел е напуснал този свят. И пак съвсем случайно, чуваш филмов саундтрак, който успява да промени мирогледа ти. Последното обаче не просто беше пример, а реална история. Нека ти я разкажа...</p>
 <p>Ден като ден. По телевизията вървеше някакъв <a href="#film" id="film-up">документален филм</a>. Сред мъглата от думи, ехтящи тихо като фон, изведнъж се откроиха звуци на музика. Заслушах се в думите от песента.</p>
@@ -90,26 +90,26 @@
         <author>
             <name>blogika</name>
         </author>
-        <link href="https://blogika/blogika.github.io/osnovna-ideya/"/>
-        <id>https://blogika/blogika.github.io/osnovna-ideya/</id>
+        <link href="https://blogika.github.io/blogika/osnovna-ideya/"/>
+        <id>https://blogika.github.io/blogika/osnovna-ideya/</id>
 
         <updated>2022-01-13T19:38:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blogika/blogika.github.io/media/posts/2/ideas-children-2.jpg" alt="" />
+                        <img src="https://blogika.github.io/blogika/media/posts/2/ideas-children-2.jpg" alt="" />
                     ...или вместо страница "За мен" Получаваш интересна идея в трамвая. Разсейваш се за миг... Вече я забрави. Ех, какво ми&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://blogika/blogika.github.io/media/posts/2/ideas-children-2.jpg" alt="" />
+                    <img src="https://blogika.github.io/blogika/media/posts/2/ideas-children-2.jpg" alt="" />
                 <h2 class="align-center">...или вместо страница "<strong>За мен"</strong></h2>
 <p>Получаваш интересна идея в трамвая. Разсейваш се за миг... Вече я забрави. Ех, какво ми беше хрумнало онзи ден под душа? <em>Трябваше да си го запиша, по дяволите.</em> Събуждаш се от странен сън в 4:30 през нощта... Я, бързо грабвай телефона и си остави бележка, че утре ще съжаляваш! </p>
 <p>Наричам тези малки хрумвания деца на Идеята-майка. Като истински деца, те сякаш си играят с ума ти. Профучават през съзнанието толкова бързо, че си трябва сериозен опит, докато се научиш да ги улавяш. Нещо като игра на гоненица. Ако не успееш да ги хванеш, те изкрещяват "Ти гониш!" и хукват нанякъде в безкрая, а ти отново си затваряш очите.</p>
 <p>Майката на идейките е винаги там. Тя бди над тях, защото ги е създала. Всъщност тя е онзи бестселър, който едва ли ще напишеш, ако не си си подбрал правилно думите в отделните изречения на всяка една глава. Тя е албумът, който просто няма да издадеш, ако не изсвириш всяка музикална нотичка от 12-те песни. Тя е онзи голям проект, който не може завършиш без да преминеш през етапите на вдъхновение, труд, умора, гняв, съмнение, разочарование, надежда и накрая... успех!</p>
 <p>Невъзможно е да видиш Идеята-майка, дори да искаш. Защото първо трябва да хванеш за ръчичка едно по едно децата ѝ и да ги събереш на едно място. В случая, това пространство е <strong>Блогика!</strong> и горе-долу по този начин тя се появи на бял (виртуален) свят. Както гласи народната поговорка, капка по капка – блог става.</p>
 <h3>Добре дошъл из мислите на един анонимен блогър!</h3>
-<figure class="post__image post__image--left"><img loading="lazy"  src="https://blogika/blogika.github.io/media/posts/2/network-6909132.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blogika/blogika.github.io/media/posts/2/responsive/network-6909132-xs.png 300w ,https://blogika/blogika.github.io/media/posts/2/responsive/network-6909132-sm.png 480w ,https://blogika/blogika.github.io/media/posts/2/responsive/network-6909132-md.png 768w"  alt="blogika profile picture" width="100" height="100"></figure>Защо анонимен ли? Окей тогава, приятно ми е – Иван Добромиров от Париж. След уточняването на тази малка подробност се питам: <em>"Какво пък от това?"</em> На фона на стотиците хиляди български блогове, този е просто една прашинка от пясъчната ивица. А какво остава, ако вземем да го измерваме в мащаба на цялата интернет мрежа... Ще е като същата тази прашинка, но сред всички звезди във видимата Вселена, например. Поне така си го представям.</p>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://blogika.github.io/blogika/media/posts/2/network-6909132.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blogika.github.io/blogika/media/posts/2/responsive/network-6909132-xs.png 300w ,https://blogika.github.io/blogika/media/posts/2/responsive/network-6909132-sm.png 480w ,https://blogika.github.io/blogika/media/posts/2/responsive/network-6909132-md.png 768w"  alt="blogika profile picture" width="100" height="100"></figure>Защо анонимен ли? Окей тогава, приятно ми е – Иван Добромиров от Париж. След уточняването на тази малка подробност се питам: <em>"Какво пък от това?"</em> На фона на стотиците хиляди български блогове, този е просто една прашинка от пясъчната ивица. А какво остава, ако вземем да го измерваме в мащаба на цялата интернет мрежа... Ще е като същата тази прашинка, но сред всички звезди във видимата Вселена, например. Поне така си го представям.</p>
 <p>Естествено, в тази <em>друга</em> реалност на фейк профили, аватари и разкрасяващи филтри, най-лесно би било да си сложа някоя фалшива снимка с едно фалшиво име и малко фалшивички данни. Колко му е! Сред толкова много фалш, никой няма да разбере... Но пък не обичам да лъжа. Ето ти нещичко, което научи за мен.</p>
 <p>Вярвам, че всяка от публикациите в блога съдържа частица от <em>moi</em> – защото освен малко мисъл (и логика де), в тях е вложено много сърце. Затова, ако държиш да опознаеш автора, чети между редовете. Все пак за протокола, не се казвам Иван и не живея във Франция! 😀</p>
 <p>А не са ли по-важни споделените идеи тук, които пък ти ще пресподелиш някъде там – в имейл, в социалните мрежи или някоя чат платформа? Не са ли по-важни посланията, които биха те накарали да се замислиш над даден проблем? Не са ли по-важни впечатленията, които ще вземеш със себе си, затваряйки страниците на този блог? Логично е да се съгласиш. </p>
@@ -123,35 +123,35 @@
         <author>
             <name>blogika</name>
         </author>
-        <link href="https://blogika/blogika.github.io/razlichno-znachi-interesno/"/>
-        <id>https://blogika/blogika.github.io/razlichno-znachi-interesno/</id>
+        <link href="https://blogika.github.io/blogika/razlichno-znachi-interesno/"/>
+        <id>https://blogika.github.io/blogika/razlichno-znachi-interesno/</id>
             <category term="Визуални послания"/>
 
         <updated>2022-01-10T22:29:51+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://blogika/blogika.github.io/media/posts/5/Social-Media-Preview.jpg" alt="" />
+                        <img src="https://blogika.github.io/blogika/media/posts/5/Social-Media-Preview.jpg" alt="" />
                     Да кажем, че това е нещо като мини кампания. Докато експериментирах с малко по-сложни фото манипулации ме осени идеята за&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://blogika/blogika.github.io/media/posts/5/Social-Media-Preview.jpg" alt="" />
+                    <img src="https://blogika.github.io/blogika/media/posts/5/Social-Media-Preview.jpg" alt="" />
                 <p>Да кажем, че това е нещо като мини кампания. Докато експериментирах с малко по-сложни фото манипулации ме осени идеята за посланието, което биха могли да носят тези леко странни същества. Затова прибавих към всяко от тях по някакъв човешки елемент, за да придобият още повече вид на хора. Ето така се родиха петте ми Франкенщайнчета! Да не забравим най-важното обаче - никога не съдете останалите.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
-<figure class="gallery__item"><a href="https://blogika/blogika.github.io/media/posts/5//gallery/1.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika/blogika.github.io/media/posts/5//gallery/1-thumbnail.jpg" alt="Кучок = Куче + Паток" width="720" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://blogika/blogika.github.io/media/posts/5//gallery/2.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika/blogika.github.io/media/posts/5//gallery/2-thumbnail.jpg" alt="Жирафина = Жираф + Балерина" width="720" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://blogika/blogika.github.io/media/posts/5//gallery/3.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika/blogika.github.io/media/posts/5//gallery/3-thumbnail.jpg" alt="Слоня = Слон + Свиня" width="720" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://blogika/blogika.github.io/media/posts/5//gallery/4.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika/blogika.github.io/media/posts/5//gallery/4-thumbnail.jpg" alt="Смоктопод = Смок + Октопод" width="720" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://blogika/blogika.github.io/media/posts/5//gallery/5.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika/blogika.github.io/media/posts/5//gallery/5-thumbnail.jpg" alt="Пепемуха = Пеперуда + Муха" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/blogika/media/posts/5//gallery/1.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/blogika/media/posts/5//gallery/1-thumbnail.jpg" alt="Кучок = Куче + Паток" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/blogika/media/posts/5//gallery/2.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/blogika/media/posts/5//gallery/2-thumbnail.jpg" alt="Жирафина = Жираф + Балерина" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/blogika/media/posts/5//gallery/3.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/blogika/media/posts/5//gallery/3-thumbnail.jpg" alt="Слоня = Слон + Свиня" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/blogika/media/posts/5//gallery/4.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/blogika/media/posts/5//gallery/4-thumbnail.jpg" alt="Смоктопод = Смок + Октопод" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/blogika/media/posts/5//gallery/5.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/blogika/media/posts/5//gallery/5-thumbnail.jpg" alt="Пепемуха = Пеперуда + Муха" width="720" height="720"></a></figure>
 </div></div>
 <p>Малко кадри от кухнята... Доказателство, че при направата на тези колажи няма пострадали животни. В този ред на мисли да спомена, че всяка прилика с действителни лица е напълно случайна! 😀</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
-<figure class="gallery__item"><a href="https://blogika/blogika.github.io/media/posts/5/gallery/making1.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika/blogika.github.io/media/posts/5/gallery/making1-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://blogika/blogika.github.io/media/posts/5/gallery/making2.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika/blogika.github.io/media/posts/5/gallery/making2-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://blogika/blogika.github.io/media/posts/5/gallery/making3.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika/blogika.github.io/media/posts/5/gallery/making3-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://blogika/blogika.github.io/media/posts/5/gallery/making4.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika/blogika.github.io/media/posts/5/gallery/making4-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://blogika/blogika.github.io/media/posts/5/gallery/making5.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika/blogika.github.io/media/posts/5/gallery/making5-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/blogika/media/posts/5/gallery/making1.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/blogika/media/posts/5/gallery/making1-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/blogika/media/posts/5/gallery/making2.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/blogika/media/posts/5/gallery/making2-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/blogika/media/posts/5/gallery/making3.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/blogika/media/posts/5/gallery/making3-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/blogika/media/posts/5/gallery/making4.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/blogika/media/posts/5/gallery/making4-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://blogika.github.io/blogika/media/posts/5/gallery/making5.jpg" data-size="1500x1500"><img loading="lazy" src="https://blogika.github.io/blogika/media/posts/5/gallery/making5-thumbnail.jpg" alt="" width="720" height="720"></a></figure>
 </div></div>
             ]]>
         </content>
