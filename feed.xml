@@ -3,14 +3,41 @@
     <title>Блогика!</title>
     <link href="https://blogika.github.io/feed.xml" rel="self" />
     <link href="https://blogika.github.io" />
-    <updated>2022-01-13T21:07:55+02:00</updated>
+    <updated>2022-01-15T17:05:08+02:00</updated>
     <author>
         <name>blogika</name>
     </author>
     <id>https://blogika.github.io</id>
 
     <entry>
-        <title>Приказка за PIF</title>
+        <title>Еволюция (Видео)</title>
+        <author>
+            <name>blogika</name>
+        </author>
+        <link href="https://blogika.github.io/evolyuciya-video/"/>
+        <id>https://blogika.github.io/evolyuciya-video/</id>
+            <category term="Видео сюжети"/>
+
+        <updated>2022-01-15T16:52:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blogika.github.io/media/posts/8/Evolucia.jpg" alt="" />
+                     Творчеството на Христо Граматиков е толкова прозорливо, проницателно и понякога граничещо с гениалността, че си струва да бъде видяно&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blogika.github.io/media/posts/8/Evolucia.jpg" alt="" />
+                <figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1" poster="https://blogika.github.io/media/posts/8/Evolucia-2.jpg">
+<source src="https://github.com/blogika/p/raw/main/Hristo%20Gramatikov%20-%20Evolucia.mp4" type="video/mp4" /></video></figure>
+<p>Творчеството на Христо Граматиков е толкова прозорливо, проницателно и понякога граничещо с гениалността, че си струва да бъде видяно от повече хора. В същото време е поднесено съвсем непретенциозно - един глас, една китара и едно послание.</p>
+<p>Създадох това видео с надеждата да накарам повече хора да се замислят за своето бъдеще и посоката, в която върви България, но от друга страна да проявят интерес към таланта на този уникален творец. Затова ако дори само един човек попадне на този блог и прочете тези редове, значи случайността си знае работата.</p>
+<p class="align-center"><a href="https://blogika.github.io/evolyuciya/" class="primary button">Прочети цялата история</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Приказка за PIF (Видео)</title>
         <author>
             <name>blogika</name>
         </author>
@@ -18,21 +45,21 @@
         <id>https://blogika.github.io/prikazka-za-pif/</id>
             <category term="Видео сюжети"/>
 
-        <updated>2022-01-13T21:07:55+02:00</updated>
+        <updated>2022-01-15T17:05:08+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blogika.github.io/media/posts/6/Social-Media-Preview.jpg" alt="Приказка за P.I.F." />
-                    Лесно е да преразкажеш една приказка, особено когато се забавляваш. Точно така се случи през 2017, когато спретнах това видео&hellip;
+                     Лесно е да преразкажеш една приказка, особено когато се забавляваш. Точно така се случи през 2017, когато спретнах това&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://blogika.github.io/media/posts/6/Social-Media-Preview.jpg" alt="Приказка за P.I.F." />
-                <p>Лесно е да преразкажеш една приказка, особено когато се забавляваш. Точно така се случи през 2017, когато спретнах това видео за няколко часа. Без да влагам голямо старание - просто сглобих най-различни кадри от YouTube, следвайки изцяло интуицията си относно тяхната подредба. Истински кеф! Като чиста детска игра... съчетана с любима песен. Същевременно малко практика за уменията по видео обработка. </p>
+                <figure class="post__video"><video loading="lazy" width="300" height="117" controls="controls" data-mce-fragment="1" poster="https://blogika.github.io/media/posts/6/Social-Media-Preview-2.jpg">
+<source src="https://github.com/blogika/p/raw/main/Pif%20-%20Prikazka.mp4" type="video/mp4" /></video></figure>
+<p>Лесно е да преразкажеш една приказка, особено когато се забавляваш. Точно така се случи през 2017, когато спретнах това видео за няколко часа. Без да влагам голямо старание - просто сглобих най-различни кадри от YouTube, следвайки изцяло интуицията си относно тяхната подредба. Истински кеф! Като чиста детска игра... съчетана с любима песен. Същевременно малко практика за уменията по видео обработка. </p>
 <p>Лесно ли е обаче да го покажеш пред света? Не и след като първоначалната цел не е била такава. Не и след като три години по-късно, Димо напусна нашия свят през 2020 г. Изисква се известна доза смелост, която едва ли притежавам. <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Но реших да публикувам това видео с ясното съзнание, че то не претендира за качество, авторски права или съвършенство. </span></p>
 <p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Просто една визуална приказка, чиято цел е да ви достави удоволствие, пренасяйки ви за момент в друг свят... </span></p>
-<figure class="post__video"><video loading="lazy" width="300" height="117" controls="controls" data-mce-fragment="1">
-<source src="https://github.com/blogika/p/raw/main/Pif%20-%20Prikazka.mp4" type="video/mp4" /></video></figure>
             ]]>
         </content>
     </entry>
@@ -44,9 +71,8 @@
         <link href="https://blogika.github.io/evolyuciya/"/>
         <id>https://blogika.github.io/evolyuciya/</id>
             <category term="Дълги размисли"/>
-            <category term="Видео сюжети"/>
 
-        <updated>2022-01-13T14:32:29+02:00</updated>
+        <updated>2022-01-15T15:30:21+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blogika.github.io/media/posts/4/Evolucia.jpg" alt="" />

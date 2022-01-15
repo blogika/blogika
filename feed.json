@@ -11,11 +11,27 @@
     },
     "items": [
         {
+            "id": "https://blogika.github.io/evolyuciya-video/",
+            "url": "https://blogika.github.io/evolyuciya-video/",
+            "title": "Еволюция (Видео)",
+            "summary": " Творчеството на Христо Граматиков е толкова прозорливо, проницателно и понякога граничещо с гениалността, че си струва да бъде видяно&hellip;",
+            "content_html": "<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"150\" controls=\"controls\" data-mce-fragment=\"1\" poster=\"https://blogika.github.io/media/posts/8/Evolucia-2.jpg\">\n<source src=\"https://github.com/blogika/p/raw/main/Hristo%20Gramatikov%20-%20Evolucia.mp4\" type=\"video/mp4\" /></video></figure>\n<p>Творчеството на Христо Граматиков е толкова прозорливо, проницателно и понякога граничещо с гениалността, че си струва да бъде видяно от повече хора. В същото време е поднесено съвсем непретенциозно - един глас, една китара и едно послание.</p>\n<p>Създадох това видео с надеждата да накарам повече хора да се замислят за своето бъдеще и посоката, в която върви България, но от друга страна да проявят интерес към таланта на този уникален творец. Затова ако дори само един човек попадне на този блог и прочете тези редове, значи случайността си знае работата.</p>\n<p class=\"align-center\"><a href=\"https://blogika.github.io/evolyuciya/\" class=\"primary button\">Прочети цялата история</a></p>",
+            "image": "https://blogika.github.io/media/posts/8/Evolucia.jpg",
+            "author": {
+                "name": "blogika"
+            },
+            "tags": [
+                   "Видео сюжети"
+            ],
+            "date_published": "2022-01-15T15:15:41+02:00",
+            "date_modified": "2022-01-15T16:52:28+02:00"
+        },
+        {
             "id": "https://blogika.github.io/prikazka-za-pif/",
             "url": "https://blogika.github.io/prikazka-za-pif/",
-            "title": "Приказка за PIF",
-            "summary": "Лесно е да преразкажеш една приказка, особено когато се забавляваш. Точно така се случи през 2017, когато спретнах това видео&hellip;",
-            "content_html": "<p>Лесно е да преразкажеш една приказка, особено когато се забавляваш. Точно така се случи през 2017, когато спретнах това видео за няколко часа. Без да влагам голямо старание - просто сглобих най-различни кадри от YouTube, следвайки изцяло интуицията си относно тяхната подредба. Истински кеф! Като чиста детска игра... съчетана с любима песен. Същевременно малко практика за уменията по видео обработка. </p>\n<p>Лесно ли е обаче да го покажеш пред света? Не и след като първоначалната цел не е била такава. Не и след като три години по-късно, Димо напусна нашия свят през 2020 г. Изисква се известна доза смелост, която едва ли притежавам. <span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">Но реших да публикувам това видео с ясното съзнание, че то не претендира за качество, авторски права или съвършенство. </span></p>\n<p><span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">Просто една визуална приказка, чиято цел е да ви достави удоволствие, пренасяйки ви за момент в друг свят... </span></p>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"117\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"https://github.com/blogika/p/raw/main/Pif%20-%20Prikazka.mp4\" type=\"video/mp4\" /></video></figure>",
+            "title": "Приказка за PIF (Видео)",
+            "summary": " Лесно е да преразкажеш една приказка, особено когато се забавляваш. Точно така се случи през 2017, когато спретнах това&hellip;",
+            "content_html": "<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"117\" controls=\"controls\" data-mce-fragment=\"1\" poster=\"https://blogika.github.io/media/posts/6/Social-Media-Preview-2.jpg\">\n<source src=\"https://github.com/blogika/p/raw/main/Pif%20-%20Prikazka.mp4\" type=\"video/mp4\" /></video></figure>\n<p>Лесно е да преразкажеш една приказка, особено когато се забавляваш. Точно така се случи през 2017, когато спретнах това видео за няколко часа. Без да влагам голямо старание - просто сглобих най-различни кадри от YouTube, следвайки изцяло интуицията си относно тяхната подредба. Истински кеф! Като чиста детска игра... съчетана с любима песен. Същевременно малко практика за уменията по видео обработка. </p>\n<p>Лесно ли е обаче да го покажеш пред света? Не и след като първоначалната цел не е била такава. Не и след като три години по-късно, Димо напусна нашия свят през 2020 г. Изисква се известна доза смелост, която едва ли притежавам. <span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">Но реших да публикувам това видео с ясното съзнание, че то не претендира за качество, авторски права или съвършенство. </span></p>\n<p><span style=\"color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">Просто една визуална приказка, чиято цел е да ви достави удоволствие, пренасяйки ви за момент в друг свят... </span></p>",
             "image": "https://blogika.github.io/media/posts/6/Social-Media-Preview.jpg",
             "author": {
                 "name": "blogika"
@@ -24,7 +40,7 @@
                    "Видео сюжети"
             ],
             "date_published": "2022-01-13T15:23:43+02:00",
-            "date_modified": "2022-01-13T21:07:55+02:00"
+            "date_modified": "2022-01-15T17:05:08+02:00"
         },
         {
             "id": "https://blogika.github.io/evolyuciya/",
@@ -37,11 +53,10 @@
                 "name": "blogika"
             },
             "tags": [
-                   "Дълги размисли",
-                   "Видео сюжети"
+                   "Дълги размисли"
             ],
             "date_published": "2022-01-09T15:33:19+02:00",
-            "date_modified": "2022-01-13T14:32:29+02:00"
+            "date_modified": "2022-01-15T15:30:21+02:00"
         },
         {
             "id": "https://blogika.github.io/osnovna-ideya/",
